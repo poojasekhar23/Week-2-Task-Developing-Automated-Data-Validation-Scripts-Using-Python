@@ -1,0 +1,2 @@
+# Week-2-Task-Developing-Automated-Data-Validation-Scripts-Using-Python
+This repository features a robust, modular Python-based data validation pipeline designed to enforce enterprise data quality gates prior to downstream ingestion or machine learning model training. Built using Pandas and NumPy, the framework automates critical data health checks to catch anomalies early and prevent silent data corruption
